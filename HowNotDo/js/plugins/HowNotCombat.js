@@ -42,7 +42,7 @@ Game_Event.prototype.update =function()
 Game_Event.prototype.updateAction =function() 
 {
 	//Damage ememy when pressing enter
-	if (Input.isTriggered('ok'))
+	if (Input.isTriggered('control'))
 	{
 		this.enemyHealth -=10;
 	}
