@@ -1,4 +1,6 @@
-//This file will handle the combat in HowNotBe
+/*:
+@plugindesc This file was supposed to handle the combat in HowToNot. Turned out to be a waste of a few weeks.
+*/
 
 var intializeGameEvent = Game_Event.prototype.initialize;
 
