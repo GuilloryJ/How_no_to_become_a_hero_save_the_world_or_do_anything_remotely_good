@@ -1638,7 +1638,9 @@ function Skill_Sequencer() {
     }
     this._character.pixelJump(dx, dy);
     this._character.setDirectionFix(lastDirectionFix);
-    this._character.setRadian(oldRadian);
+    console.log(dx, dy);
+    console.log(-dx, -dy);
+    this._character.setRadian();
     this._waitForUserJump = action[2] ? action[2] === 'true' : false;
   };
 
