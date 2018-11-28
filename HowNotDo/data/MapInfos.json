@@ -1,7 +1,12 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":450,"scrollY":456.5},
-{"id":2,"expanded":true,"name":"MAP002","order":2,"parentId":1,"scrollX":832,"scrollY":640},
-{"id":3,"expanded":true,"name":"MAP003","order":3,"parentId":1,"scrollX":832,"scrollY":640},
-{"id":4,"expanded":false,"name":"MAP004","order":4,"parentId":1,"scrollX":832,"scrollY":640}
+{"id":1,"expanded":true,"name":"Stage 1","order":1,"parentId":0,"scrollX":704,"scrollY":459},
+{"id":2,"expanded":true,"name":"MAP002","order":2,"parentId":1,"scrollX":442,"scrollY":459},
+{"id":3,"expanded":true,"name":"All Enemies","order":3,"parentId":1,"scrollX":442,"scrollY":459},
+{"id":4,"expanded":false,"name":"MAP004","order":4,"parentId":1,"scrollX":442,"scrollY":453},
+{"id":5,"expanded":true,"name":"MAP005","order":5,"parentId":1,"scrollX":442,"scrollY":459},
+{"id":6,"expanded":true,"name":"MAP006","order":6,"parentId":1,"scrollX":806,"scrollY":459},
+{"id":7,"expanded":true,"name":"MAP007","order":7,"parentId":1,"scrollX":806,"scrollY":459},
+{"id":8,"expanded":true,"name":"MAP008","order":8,"parentId":1,"scrollX":806,"scrollY":459},
+{"id":9,"expanded":true,"name":"MAP009","order":9,"parentId":1,"scrollX":806,"scrollY":459}
 ]
