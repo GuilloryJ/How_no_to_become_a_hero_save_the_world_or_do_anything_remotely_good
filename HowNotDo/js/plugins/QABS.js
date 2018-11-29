@@ -1823,7 +1823,11 @@ function Skill_Sequencer() {
   Skill_Sequencer.prototype.actionPicture = function(action) {
     this._skill.picture = new Sprite_SkillPicture();
     this._skill.picture.bitmap = ImageManager.loadPicture(action[0]);
-    this._skill.picture.rotatable = 'TRUE';//action[1] === 'true';
+    if (action[1] === 'TRUE')
+    {
+    	this._skill.picture.rotatable = 'TRUE';
+    }
+    //this._skill.picture.rotatable = 'TRUE';//action[1] === 'true';
     this._skill.picture.originDirection = Number(action[2]);
     this._skill.picture.z = 3;
     this._skill.picture.anchor.x = 0.5;
