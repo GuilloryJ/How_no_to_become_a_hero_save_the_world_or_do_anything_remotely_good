@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Stage 1","order":1,"parentId":0,"scrollX":704,"scrollY":459},
+{"id":1,"expanded":true,"name":"Stage 1","order":1,"parentId":0,"scrollX":811,"scrollY":461},
 {"id":2,"expanded":true,"name":"MAP002","order":2,"parentId":1,"scrollX":442,"scrollY":459},
 {"id":3,"expanded":true,"name":"All Enemies","order":3,"parentId":1,"scrollX":442,"scrollY":459},
 {"id":4,"expanded":false,"name":"MAP004","order":4,"parentId":1,"scrollX":442,"scrollY":453},
